@@ -38,3 +38,21 @@ https://astonishing-yeot-e771de.netlify.app/
 - Footer Section
 
 ## Project Structure
+baroque-website
+│
+├── index.html
+├── style.css
+└── broque-img
+
+
+## How to Run
+
+1. Clone the repository
+2. Open the project folder
+3. Open index.html in the browser
+
+## Author
+
+Muhammad Zeeshan  
+Frontend Developer (Learning MERN Stack)
+
